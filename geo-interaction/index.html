@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Universal Geometric Interaction System — prototype</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div class="brand-text">
+          <h1>Universal Geometric Interaction System</h1>
+          <p>Predictive virtual touch · eye control · universal switch access</p>
+        </div>
+      </div>
+      <div class="chips" id="status-chips"></div>
+    </header>
+
+    <div class="app-body">
+      <nav class="rail" id="nav" aria-label="Prototype sections"></nav>
+      <main class="views" id="views"></main>
+    </div>
+
+    <footer class="app-footer">
+      Browser prototype of the mathematical, geometric and interaction architecture. Simulated input and geometry only — not a native Android accessibility service, and nothing here is verified on Android hardware.
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
