@@ -1,0 +1,7 @@
+# Optional community-style Muse companion; not tested on Muse.
+# This file does not establish installation, discovery, or persistence.
+name: ascii_unicode_logic
+title: ASCII Unicode Logic Code
+description: 'Use when encoding, decoding, or converting Unicode and logic with the custom ASCII ESC/visible code.'
+include_in_prompt: true
+availability: {confidential_vm: true, needs_speech: false}

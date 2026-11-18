@@ -1,0 +1,1 @@
+Manus: skill installed at /home/ubuntu/skills/agent-superpowers; copy SKILL.md into the runtime skills directory if this target is not already /home/ubuntu/skills.

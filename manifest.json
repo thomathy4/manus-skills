@@ -1,0 +1,222 @@
+[
+  {
+    "name": "agent-superpowers",
+    "files": [
+      {
+        "path": "HARNESS-INSTRUCTIONS.txt",
+        "bytes": 164,
+        "sha256": "7f7393fb6371329508196e0669434bee591dc84ebaa159999da962846686b303"
+      },
+      {
+        "path": "INSTALLATION-METADATA.txt",
+        "bytes": 83,
+        "sha256": "a4ecc73bcf1ee5ff1e849fe43c87e09e3e5992cfc84f2478353b2b701a2984f4"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 2983,
+        "sha256": "827fae9ca6bbe1e2189fa0807c03dfffefc8b5b2532928c488e0eac81b4048af"
+      },
+      {
+        "path": "omniroute.env.example",
+        "bytes": 104,
+        "sha256": "99f8b4f98c76794b704532fb9e299a0623b5be2166bebcad6db6db01153ed4dd"
+      }
+    ],
+    "package": "packages/agent-superpowers.skill"
+  },
+  {
+    "name": "ascii-unicode-logic",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 4160,
+        "sha256": "b17dcd299016fc852e21e8a153537dfa95f2d38561454d88b4f15a83231bf836"
+      },
+      {
+        "path": "references/HOWTO.md",
+        "bytes": 2674,
+        "sha256": "058ab8236928c11be0f108218c053e14d3bb54c759f7dd2213c465b03132fb88"
+      },
+      {
+        "path": "references/PROVENANCE.md",
+        "bytes": 2772,
+        "sha256": "1d735553c23b4d7c4aaa038774b9e6c08a5a3f1d93495828d98a3190e8281bba"
+      },
+      {
+        "path": "references/SPEC.md",
+        "bytes": 21407,
+        "sha256": "0973c4d3243d5900a10b814dfe1cafea73c3dd9113fabbc3c70864f22d871444"
+      },
+      {
+        "path": "references/SYMBOLS.md",
+        "bytes": 6892,
+        "sha256": "b114ee6a46d8715258e6a2499159ed7c52063a9abf7f816bdaab76d9b01ff0cd"
+      },
+      {
+        "path": "references/compact-prompt.txt",
+        "bytes": 1368,
+        "sha256": "59854342147dda31908e75b6ca66151a59b1db10966f0ea97bc63aaacaf70753"
+      },
+      {
+        "path": "references/logic_mapping.csv",
+        "bytes": 2344,
+        "sha256": "565df6d9198269a21d140918179d289b9adc164facf4c1f656523e9dbb3bfa61"
+      },
+      {
+        "path": "scripts/ascii_unicode_code.py",
+        "bytes": 21122,
+        "sha256": "20281d9772de12d5d81aa3ffb68c41970d68c338594396d284208db2cba865d4"
+      },
+      {
+        "path": "skill.yaml",
+        "bytes": 392,
+        "sha256": "d972aae05f9f743b7180fcbefb5451e9164592c97b908bf644d8c3efa81e1de1"
+      }
+    ],
+    "package": "packages/ascii-unicode-logic.skill"
+  },
+  {
+    "name": "connecting-deepseek-notion",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 4042,
+        "sha256": "92c684951779107f74dee30fbc69e96c47036f310b9fc5ba42e39010b38419c8"
+      },
+      {
+        "path": "references/zapier-blueprint.md",
+        "bytes": 11665,
+        "sha256": "03eee6d5e2904269a63b530ffca208ab6e4fb8e940233de07e4fa1caace3f97e"
+      },
+      {
+        "path": "templates/setup-prompt.md",
+        "bytes": 6766,
+        "sha256": "3f5d53ae2c349e24edc5a70f92895c364739697148a401069d160d88313c7b4b"
+      }
+    ],
+    "package": "packages/connecting-deepseek-notion.skill"
+  },
+  {
+    "name": "headless-chromium-web-browser",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 8836,
+        "sha256": "061fb01df8e696a6a2ee0555beaf920b4e2daac3716bf7d1d1ae18e14aa6d73a"
+      },
+      {
+        "path": "references/connector-deployment.md",
+        "bytes": 2264,
+        "sha256": "9265705eb2de7c790b060d47b855568030a999218b9a676bd7467848ce1178e4"
+      },
+      {
+        "path": "references/security-policy.md",
+        "bytes": 3766,
+        "sha256": "19db90d706bd179719f8f8aeff954048c82a4533d14bcc1ff8cf1d146d61fea5"
+      },
+      {
+        "path": "references/staticization-policy.md",
+        "bytes": 2648,
+        "sha256": "aa8e6248b8559e0c71fd6e0d17d338a0ae27e7fc6a91d6d4145e0bc77fa054a5"
+      },
+      {
+        "path": "templates/connector-draft.json",
+        "bytes": 338,
+        "sha256": "05afbbf407ef34c2e6df54c7f220bd74fcdec5064274b50e4c9f6799f28377f6"
+      },
+      {
+        "path": "templates/headless_mcp_server.py",
+        "bytes": 10807,
+        "sha256": "4667c17c8837d1bb8defea09ac233d2ae59f41d3a96a429f15c676f02764f05d"
+      }
+    ],
+    "package": "packages/headless-chromium-web-browser.skill"
+  },
+  {
+    "name": "i-have-adhd",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 7345,
+        "sha256": "8f88c882213e1925bc48d2abfc876debff9700a8ef25facc8aeef5ed0cae6e81"
+      },
+      {
+        "path": "agents/gemini.toml",
+        "bytes": 2157,
+        "sha256": "5108a6123beb9df24846e0dd3f902c652d18522dfbc56e5762032ea383041c62"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 238,
+        "sha256": "2c51291283dcefdca43ca6b0c08172f225c7c26a9783ec444d6bdfa51ca96f8f"
+      }
+    ],
+    "package": "packages/i-have-adhd.skill"
+  },
+  {
+    "name": "offline-codec-engineering",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 5864,
+        "sha256": "dfd581f99a88b358961fb50e16c65e9c8e1cf0574b7317d77c7419cc51e2cc0c"
+      }
+    ],
+    "package": "packages/offline-codec-engineering.skill"
+  },
+  {
+    "name": "offline-manus-codec",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 10490,
+        "sha256": "a10dc28a17645cbe7efe1736c864ab06360de5e71b2ef660b88aa8c13dfb4416"
+      },
+      {
+        "path": "references/format-schema.md",
+        "bytes": 3084,
+        "sha256": "6af15b6ebcf5d7a0c9412ed841ffb0af60bd9fec416a84c171a03b5cabf0b49f"
+      }
+    ],
+    "package": "packages/offline-manus-codec.skill"
+  },
+  {
+    "name": "perspective-dialogue",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 7292,
+        "sha256": "5b7e782dd0a9ad4caac6c54b352ba1b8aa213835c39f20fb0eb3fc531fb48194"
+      }
+    ],
+    "package": "packages/perspective-dialogue.skill"
+  },
+  {
+    "name": "portable-agent-integration",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 4590,
+        "sha256": "c66011cbd23c2dd7f0da0632e60c38f061ac984f24b8c547cbfa58f47fc925fe"
+      }
+    ],
+    "package": "packages/portable-agent-integration.skill"
+  },
+  {
+    "name": "reversible-byte-integer-codec",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 6987,
+        "sha256": "48a98bf02f3e87dceccd9d69638be7e4bdece0cb1a59810f00cc1572a77dd713"
+      },
+      {
+        "path": "references/format.md",
+        "bytes": 2253,
+        "sha256": "12e26a4e6598d61ba82fb29049084ad973c87e5a7e21868284d8f26f693a0c61"
+      }
+    ],
+    "package": "packages/reversible-byte-integer-codec.skill"
+  }
+]

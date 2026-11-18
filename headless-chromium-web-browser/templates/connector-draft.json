@@ -1,0 +1,9 @@
+{
+  "mode": "url",
+  "description": "Fetch requested domains through a domain-locked headless Chromium service with JavaScript-disabled retrieval, explicit bounded DOM staticization, sanitized HTML, and provenance hashes.",
+  "mcpServers": {
+    "headless-chromium-web-browser": {
+      "url": "https://your-host.example/mcp"
+    }
+  }
+}
